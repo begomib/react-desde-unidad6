@@ -1,6 +1,7 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: rgb(234, 234, 234);
+    background-color: #4c4c4c;
+    color:aliceblue;
   }
   
   body {
@@ -25,6 +26,7 @@
   h3 {
     font-size: 3rem;
     margin-bottom: 5px;
+    color:azure;
   }
   
   .card-grid {

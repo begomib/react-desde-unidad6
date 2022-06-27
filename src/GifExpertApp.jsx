@@ -35,7 +35,7 @@ export const GifExpertApp = () => {
         <>
 
 
-            <h1>Banco de gifs - Begoña</h1>
+            <h1>GifExpertApp</h1>
 
 
             <AddCategory
